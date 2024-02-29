@@ -18,8 +18,8 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 ### Screenshot
 ![](/src/assets//preview.png)
 ### Links
-- Solution URL: [Github repository](https://github.com/Hemazyn/Notification-page)
-- Live Site URL: [Netlify Link](https://devemma-notification.netlify.app/)
+- Solution URL: [Github repository](https://github.com/Hemazyn/News_homepage)
+- Live Site URL: [Netlify Link](https://devemma-news-homepage.netlify.app/)
 ## My process
 ### Built with
 - Semantic HTML5 markup
