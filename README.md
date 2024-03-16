@@ -32,7 +32,6 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 - [Tailwind CSS](https://tailwindcss.com/) - Utility-First Styling for Rapid Web Development
 #### React Component Structure:
 - Explored the organization of React components for an intuitive and maintainable structure.
-- Leveraged the App component as the main entry point and seamlessly integrated the QR code component.
 #### Responsive Design with Tailwind CSS:
 - Utilized Tailwind CSS to create a responsive layout that adapts to various screen sizes.
 - Incorporated Tailwind utility classes for styling, ensuring a consistent and visually appealing design.
